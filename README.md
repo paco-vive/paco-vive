@@ -90,7 +90,7 @@ I train **reinforcement learning** policies for an **ANYmal D** quadruped with a
 ## 📊 On GitHub
 
 <p align="center">
-  <img src="./profile-summary-card-output/github_dark/1-repos-language.svg" height="180" alt="Languages across my repos">
+  <img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" height="180" alt="Languages across my repos">
   <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" height="180" alt="Languages I commit the most">
 </p>
 <p align="center">
